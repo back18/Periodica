@@ -11,8 +11,8 @@
     <AssemblyName>Periodica</AssemblyName>
     <DefaultLanguage>en-US</DefaultLanguage>
     <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
-    <TargetPlatformVersion Condition=" '$(TargetPlatformVersion)' == '' ">10.0.16299.0</TargetPlatformVersion>
-    <TargetPlatformMinVersion>10.0.14393.0</TargetPlatformMinVersion>
+    <TargetPlatformVersion Condition=" '$(TargetPlatformVersion)' == '' ">10.0.22621.0</TargetPlatformVersion>
+    <TargetPlatformMinVersion>10.0.22621.0</TargetPlatformMinVersion>
     <MinimumVisualStudioVersion>14</MinimumVisualStudioVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{A5A43C5B-DE2A-4C0C-9213-0A381AF9435A};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
@@ -191,7 +191,7 @@
     <Content Include="Images\solid.svg" />
     <Content Include="Images\air.svg" />
     <Content Include="Images\liquid.svg" />
-    <Content Include="ImgElements\cu.jpg" />
+    <!-- <Content Include="ImgElements\cu.jpg" />
     <Content Include="ImgElements\fe.jpg" />
     <Content Include="ImgElements\ar.jpg" />
     <Content Include="ImgElements\i_crystal.jpg" />
@@ -295,7 +295,7 @@
     <Content Include="ImgElements\ti.jpg" />
     <Content Include="ImgElements\h_orion.jpg" />
     <Content Include="ImgElements\he_sun.jpg" />
-    <Content Include="ImgElements\li.jpg" />
+    <Content Include="ImgElements\li.jpg" /> -->
     <None Include="Package.StoreAssociation.xml" />
     <Content Include="Properties\Default.rd.xml" />
   </ItemGroup>

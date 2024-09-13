@@ -28,7 +28,7 @@ namespace Bluegrams.Periodica
             this.Suspending += OnSuspending;
         }
 
-        private async void App_UnhandledException(object sender, UnhandledExceptionEventArgs e)
+        private async void App_UnhandledException(object sender, Windows.UI.Xaml.UnhandledExceptionEventArgs e)
         {
             e.Handled = true;
             Settings.Instance.SaveSettings();

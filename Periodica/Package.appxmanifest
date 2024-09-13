@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Package xmlns="http://schemas.microsoft.com/appx/manifest/foundation/windows10" xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest" xmlns:uap="http://schemas.microsoft.com/appx/manifest/uap/windows10" IgnorableNamespaces="uap mp">
-  <Identity Name="42595Bluegrams.Periodica" Publisher="CN=6FC4D86E-273E-4B2D-A94E-8158935E8C8B" Version="0.6.0.0" />
+  <Identity Name="42595Bluegrams.Periodica.Test" Publisher="CN=6FC4D86E-273E-4B2D-A94E-8158935E8C8B" Version="0.6.0.0" />
   <mp:PhoneIdentity PhoneProductId="2e56a530-5625-4084-9f0f-1204865df63e" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
     <DisplayName>Periodica</DisplayName>
