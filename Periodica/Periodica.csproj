@@ -146,6 +146,9 @@
       <SubType>Designer</SubType>
     </AppxManifest>
     <None Include="Periodica_StoreKey.pfx" />
+    <PRIResource Include="Strings\zh-cn\CodeStrings.resw" />
+    <PRIResource Include="Strings\zh-cn\ImageResources.resw" />
+    <PRIResource Include="Strings\zh-cn\Resources.resw" />
     <PRIResource Include="Strings\fr\ImageResources.resw" />
     <PRIResource Include="Strings\de\ImageResources.resw" />
     <PRIResource Include="Strings\es\ImageResources.resw" />
